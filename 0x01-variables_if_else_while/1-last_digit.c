@@ -1,16 +1,17 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-#include <stdio.h>
+#include<stdio.h>
 /* betty style doc for function main goes there */
 /**
  * main - main function
  *
- * Retun: 0 if correct
+ * Return: always 0 (success)
  */
 int main(void)
 {
 	int n;
+
 	int m;
 
 	srand(time(0));
