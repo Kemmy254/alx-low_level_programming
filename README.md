@@ -1,1 +1,1 @@
-reprocesor
+this is C functions
